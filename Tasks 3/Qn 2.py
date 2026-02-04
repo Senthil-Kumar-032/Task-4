@@ -10,6 +10,7 @@ scrambled = word[::-1]
 
 print("Scrambled word:", scrambled)
 
+# To hold the user Input
 guess = ""
 
 # Loop to check the word until correct
