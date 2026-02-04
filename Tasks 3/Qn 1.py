@@ -1,4 +1,4 @@
-# Guess the Number game
+# Guess the Number Game
 
 # number to be guessed
 number = 3
