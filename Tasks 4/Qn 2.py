@@ -17,6 +17,6 @@ for num in nums:
         if count == 2:
             prime_numbers.append(num)
 
-# Print the Prime Numbers
+# Print the Prime Number
 print("Prime numbers:", prime_numbers)
 print("Count:", len(prime_numbers))
